@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Applications/MAMP/htdocs/AndroidStudio_Proyect/Mxcircuit/Mxcircuit.iml" filepath="/Applications/MAMP/htdocs/AndroidStudio_Proyect/Mxcircuit/Mxcircuit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///Applications/MAMP/htdocs/android_studio/project_android/app/app.iml" filepath="/Applications/MAMP/htdocs/android_studio/project_android/app/app.iml" />
+      <module fileurl="file:///Applications/MAMP/htdocs/AndroidStudio_Proyect/Mxcircuit/app/app.iml" filepath="/Applications/MAMP/htdocs/AndroidStudio_Proyect/Mxcircuit/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx.iml" filepath="$PROJECT_DIR$/mx.iml" />
+      <module fileurl="file:///Applications/MAMP/htdocs/android_studio/project_android/project_android.iml" filepath="/Applications/MAMP/htdocs/android_studio/project_android/project_android.iml" />
+    </modules>
+  </component>
+</project>

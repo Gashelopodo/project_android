@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mxcircuit</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="nombre_">Nombre:</string>
+    <string name="email_">Email:</string>
+    <string name="intro_home">Elige el circuito que deseas visitar y te indicaremos como llegar</string>
+    <string name="intro_notifications">NOTIFICATIONES DE LOS CIRCUITOS</string>
+    <string name="instalaciones">Instalaciones</string>
+    <string name="valoraciones_usuarios">Valoraciones de los usuarios</string>
+    <string name="datos_del_contacto">Datos del contacto</string>
+    <string name="datos_interes">Datos de interés</string>
+    <string name="terreno">Terreno</string>
+    <string name="riegos">Riegos</string>
+    <string name="saltos">Saltos</string>
+    <string name="seguridad">Seguridad</string>
+    <string name="valorar_circuito">VALORAR CIRCUITO</string>
+    <string name="notificaciones_del_circuito">Notificationes del circuito</string>
+    <string name="no_tiene_notificaciones">Este circuito aún no ha mandado ninguna notificación</string>
+    <string name="intro_ajustes">AJUSTES</string>
+    <string name="error_location">No se puede acceder a la geolocalización de tu disposivo. Para un correcto funcionamiento de la aplicación necesitamos disponer de su localización para ofrecerle el listado de circuitos según su posición. Active la localización de su dispositivo y reintente.</string>
+    <string name="error_title">Hay un problema</string>
+    <string name="info_title">Información</string>
+    <string name="info_vote">Valora cada categoría con las estrellas que consideres y una vez terminado pulsa de nuevo el botón VALORAR CIRCUITO. ¡Gracias por tu valoración!</string>
+    <string name="error_location_positive_button">Reintentar</string>
+    <string name="error_location_negative_button">Cancelar</string>
+    <string name="como_llegar">COMO LLEGAR</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mxcircuit.mxcircuit.es.mxcircuit.mxcircuit.activities.NetworkOff"
+    android:orientation="vertical"
+    android:background="@color/colorBlack">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="30dp"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:src="@drawable/logo"
+            />
+
+        <es.mxcircuit.mxcircuit.utils.CalibriFont
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="OOoops!!!"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="50sp"/>
+
+        <es.mxcircuit.mxcircuit.utils.CalibriFont
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Parece que no dispones de conexión a internet"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center"
+            android:textSize="30sp"/>
+
+        <es.mxcircuit.mxcircuit.utils.CalibriFont
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Necesitamos una conexíon estable para poder ofrecerte un buen servicio de la aplicación."
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center"
+            android:textSize="20sp"/>
+
+        <Button
+            android:layout_marginTop="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorRed"
+            android:id="@+id/buttonReintentar"
+            android:text="Reintenar"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/loading"
+        android:background="@color/colorWhite"
+        android:visibility="invisible">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+

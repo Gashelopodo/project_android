@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "568951049760",
+    "firebase_url": "https://mxcircuit-aba6a.firebaseio.com",
+    "project_id": "mxcircuit-aba6a",
+    "storage_bucket": "mxcircuit-aba6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568951049760:android:9ce545829b9d4d6a",
+        "android_client_info": {
+          "package_name": "es.mxcircuit.mxcircuit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568951049760-9i3b7u34ac7l8o9hsfl0rome2b2gjo8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvKJDF-Zg7UFpqKxODrjInY6q30dFhZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568951049760:android:a602c3091eb68be3",
+        "android_client_info": {
+          "package_name": "com.gashe.mxcircuit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568951049760-9i3b7u34ac7l8o9hsfl0rome2b2gjo8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvKJDF-Zg7UFpqKxODrjInY6q30dFhZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

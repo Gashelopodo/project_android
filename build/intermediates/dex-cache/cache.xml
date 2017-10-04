@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/7d1823c0a23b17aa6d1ad8dc16253f2da9e78a40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_6be799110be37800b890ef45b2e514b1c8e625d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/e66cf5cfc63375677987cc00d532b56e89107ef4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_6e9a2aaf583ce6fd52b8c145ea31da53ce205f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/0d0d4c2077fd03fca9e8e76ce4d8d377c38d0a04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_fb96350ed45c913bd1b201185527eaabda9e2f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/3901811a62d3634384f2a8ca376772ce9189cb7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_420f31f896acdd6ff158c9664da580ed7f62a283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/a569bcc2308f02922236216df214ffa4ad2b73c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_9337ff4e0dd507236252634c1c117738372a6d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/78618e8bf6a63cf38f86e359ea564c3b7bba7fad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_8a0155db2ead6ee23285692fff98a95fe2e72519.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34e3e0ec48776b277fe3025a2d18d119c11df9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05188f3f296952d14dcd139879edacbe97140e29">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c4b857913ed9aa9b23f14ef858ea22a8055ceb4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/5ee7d8269d5b882875ea2e89cd964cd9d74102e8/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_00c879f1fc2ca71c4b7ce19da0822c0d558d2616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/77a751e75101006645883fbdc4d92ea7ee3a81ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_6e5008c36c17a1872c6fd10443cfdb5d1aa35bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/google-services-3.0.0_bafcc898f4a0bf938f91ce2a272f17d1f1194571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/2ba9244e5875d3c1440e81b60e91197e5bb5c693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_341b9b3a8372b2daa67d075e2439c06802091677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/99ab8e349fd7940ac7eecf17a8a155893e7bf7ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_2722ddc660d472670cd6fa38f8ff326a889f5df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Datos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_8c94f32fc9344d35b27de652deede1e3bbab9374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/26dd6583b978f8da0b8d17cb5744dcb628ca162f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_05f1237ce2b47fc3f8110e61c2b20b654793d1f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/f1b776ed03b65dc8e362a733f067ce881660df4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_ae4659385d04b770f4be357c853323aa0ebfdb69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/519ded015561cc4a04501923a10f60b73bf31748/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_561f6347a7dc220ad6384a5619cbba852da4f4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/59217e7accb84f52b502caa98f93196b8d783aa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_196fa2b85791485b511aea809293b8dd465025a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/26dd6583b978f8da0b8d17cb5744dcb628ca162f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_594ec88d865dcdead01d7e1bcabefecf3b14c22f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/ce39bb3713bad6de9c6a8fdff191366ff44f0cd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_9fa6ed97b0edf31fcaaf0e6c60b68b0a6e703b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/f4f9d767e8d8e9c39768a71c9a612db222f524a3/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_5762dd09c027e15b8cc1146f21599ccbaf46092d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/5ee7d8269d5b882875ea2e89cd964cd9d74102e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_73d84008e606e8ce41b73a425fb3d84c35337cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/221a4670d25b21e1fde2d155777b81275c1810be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_0954f64662fee8076377022547f16bd6bb1456e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/87cdb183b4ba117343c0cf488d9d2ed347483fad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_6a98ad29b483e91d40ec3e4c851c38490dd70fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/2e7cd09a5ab48bd4e65f950a4445c5db31368a29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_6872d8c6b0ed268286db656bee8c03f2575d4085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_d2bbe3e89dae6a52eece0a2c1d84049f3bf08570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/2e7cd09a5ab48bd4e65f950a4445c5db31368a29/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_5284ec79f93bf4e8ebc8f08347261efcd5ead53a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/bac77076b9f4c13dd7567ac3841528c893e6b1a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_a6927bb19ae0e0fd051738bd0a0e1f03be6bf121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/f4f9d767e8d8e9c39768a71c9a612db222f524a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_94e46564b28b2ddff8911edfb6bcd916bc5d3981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/bb81cc001b6d8a2cffae3791c237159ab1c7eaf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/classes_c3e0cea4365cd37a2c5ac66abf22cba4aa84e35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/g5/.android/build-cache/7d1823c0a23b17aa6d1ad8dc16253f2da9e78a40/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_9f9e14016a18ed97a6b6442c41fe6d1e9e9c846f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Volumes/Datos/TRABAJOS/htdocs/androidstudio/mx/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_d2bbe3e89dae6a52eece0a2c1d84049f3bf08570/classes.dex" />
+    </item>
+
+</items>
